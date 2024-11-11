@@ -1,0 +1,374 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "New Study Reveals Surprising Health Benefits of Coffee",
+      "date": "2024-10-15",
+      "category": "Health",
+      "content": "A new study published this week has found that drinking coffee may have numerous health benefits. The study, conducted over ten years, tracked the health outcomes of 10,000 participants who consumed coffee regularly...",
+      "views": 150,
+      "wordCount": 500,
+      "imageUrl": "https://i.pinimg.com/564x/7e/21/fc/7e21fc2b03150836598a422e524cc0a6.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Tech Giants Announce Collaboration on AI Safety Standards",
+      "date": "2024-11-01",
+      "category": "Technology",
+      "content": "In a groundbreaking move, several major tech companies have come together to develop common standards for artificial intelligence safety...",
+      "views": 300,
+      "wordCount": 650,
+      "imageUrl": "https://www.gizmochina.com/wp-content/uploads/2024/07/Artificial-Intelligence.webp"
+    },
+    {
+      "id": 3,
+      "title": "Experts Predict Economic Trends for 2025",
+      "date": "2024-10-05",
+      "category": "Finance",
+      "content": "With 2025 on the horizon, financial experts have released their predictions for economic trends that may shape the upcoming year...",
+      "views": 220,
+      "wordCount": 700,
+      "imageUrl": "https://cdn.buttercms.com/output=f:webp/JHiQzWQlOWxCxocoIagg"
+    },
+    {
+      "id": 4,
+      "title": "Breakthroughs in Cancer Research Offer New Hope",
+      "date": "2024-08-30",
+      "category": "Health",
+      "content": "Recent breakthroughs in cancer research have led to promising new treatments that may improve survival rates for several types of cancer...",
+      "views": 130,
+      "wordCount": 550,
+      "imageUrl": "https://devdiscourse.blob.core.windows.net/devnews/27_10_2024_19_25_56_6169737.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Guide to Traveling on a Budget in 2025",
+      "date": "2024-10-20",
+      "category": "Travel",
+      "content": "With travel becoming more accessible post-pandemic, many people are looking for ways to explore the world on a budget...",
+      "views": 90,
+      "wordCount": 450,
+      "imageUrl": "https://www.wanderlustmagazine.com/wp-content/uploads/2023/11/guidebook-header-image-scaled.jpg"
+    },
+    {
+      "id": 6,
+      "title": "How Meditation Can Improve Mental Health",
+      "date": "2024-11-04",
+      "category": "Health",
+      "content": "In a fast-paced world, meditation is increasingly recognized as a powerful tool for managing stress and improving mental health...",
+      "views": 175,
+      "wordCount": 500,
+      "imageUrl": "https://zenfulspirit.com/wp-content/uploads/2015/07/83569966-web.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Apple's Monster iPhone Update: How Apple Intelligence Works on iOS 18.1",
+      "date": "2024-11-10",
+      "category": "Technology",
+      "content": "Apple released the first public beta of iOS 18.2 on Nov. 6, just after iOS 18.1’s release, adding more AI features for select iPhones. The beta i ncludes new capabilities like Genmoji, Visual Intelligence, Image Playground, and glowing Siri, with ChatGPT integration for some features.",
+      "views": 320,
+      "wordCount": 1800,
+      "imageUrl": "https://static.toiimg.com/thumb/msid-114000164,width-1280,height-720,resizemode-4/114000164.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Apple Watch Series 10 is Already $30 Off at Walmart, More Savings Expected",
+      "date": "2024-11-07",
+      "category": "Technology",
+      "content": "As Black Friday approaches, Walmart has slashed prices on the new Apple Watch Series 10, offering a discount of $30. Starting on Nov. 11, Walmart+ members can access a $50 discount, reducing the price to $349. This early deal is part of Walmart's phased Black Friday events, which include special access for Walmart+ subscribers. The Apple Watch Series 10 features a larger screen, thinner build, and new health functions, including sleep apnea detection.",
+      "views": 210,
+      "wordCount": 125,
+      "imageUrl": "https://www.zdnet.com/a/img/resize/6c5fcbee84f510a9a585cc7f66a896f11eb60f14/2024/11/07/694f8297-d26a-46f1-a7f5-161edb518bee/screenshot-2024-11-07-at-2-23-37-pm-removebg-preview-1.png?auto=webp&width=1280"
+    },
+    {
+      "id": 9,
+      "title": "Qantas Flight Makes Emergency Landing After Engine Failure",
+      "date": "2024-11-10",
+      "category": "Travel",
+      "content": "A Qantas Airways plane bound for Brisbane suffered an engine failure after takeoff on Friday and circled for a short period of time before returning safely to Sydney Airport, the Australian airline said.",
+      "views": 320,
+      "wordCount": 180,
+      "imageUrl":"https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182871736.jpg?c=original"
+  },
+  {
+      "id": 10,
+      "title": "Relief from US Stresses: Why Some Americans Prefer Life in Europe",
+      "date": "2024-11-10",
+      "category": "Travel",
+      "content": "By now, many Americans are used to hearing a variety of reasons why life across the Atlantic has tempted more than a few fellow citizens to uproot and settle down anew in places such as Portugal, France, and Italy.",
+      "views": 1500,
+      "wordCount": 250,
+      "imageUrl":"https://media.cnn.com/api/v1/images/stellar/prod/microstressors.jpg?c=original"
+  },
+  {
+      "id": 11,
+      "title": "How Almaty Transformed into Central Asia’s Capital of Cool",
+      "date": "2024-11-10",
+      "category": "Travel",
+      "content": "Several cities around the globe have reinvented themselves in recent years, but none more successfully than Almaty. Since the collapse of the USSR, Kazakhstan’s largest city (population 2.2 million and growing) has evolved from a drab, run-of-the-mill Soviet metropolis into the urban star of Central Asia.",
+      "views": 2000,
+      "wordCount": 300,
+      "imageUrl":"https://digital.ihg.com/is/image/ihg/intercontinental-almaty-9686284506-2x1"
+  },
+  {
+      "id": 12,
+      "title": "Loy Krathong: Celebrating the Cradle of Thai Culture",
+      "date": "2024-11-10",
+      "category": "Travel",
+      "content": "Every year in Thailand, on the evening of the full moon of the 12th month of the Thai lunar calendar – usually in November – thousands of locals and tourists head for the nearest body of water to celebrate Loy Krathong.",
+      "views": 2500,
+      "wordCount": 220,
+      "imageUrl":"https://blog.bangkokair.com/wp-content/uploads/2023/07/02_celebrate-loy-krathong-festival.jpg"
+  },
+  {
+      "id": 13,
+      "title": "Kathmandu’s Historic, Tranquil Forest Retreat",
+      "date": "2024-11-10",
+      "category": "Travel",
+      "content": "As the political and cultural capital of Nepal, Kathmandu – bursting with ancient temples and bustling street markets – is a city with the power to stimulate all senses. Yet for tourists eyeing a more serene experience in the region, tranquillity lies a stone’s throw away.",
+      "views": 1700,
+      "wordCount": 240,
+      "imageUrl":"https://media.digitalnomads.world/wp-content/uploads/2021/07/20115822/kathmandu-digital-nomads.jpg"
+  },
+  {
+     "id": 14,
+    "title": "DJI Launches Goggles N3 for Enhanced Immersive Drone Flight Experience",
+   "date": "2024-11-06",
+   "category": "Technology",
+    "content": "DJI has unveiled the DJI Goggles N3, designed for FPV (First-Person View) drone enthusiasts. These goggles provide an immersive flight experience and are compatible with DJI's Neo and Avata 2 drones, allowing pilots to perform aerial tricks such as flips and rolls. They feature a low-latency video transmission system, providing live video at 1080p/60fps with a range of up to 13 km. The goggles also come with an augmented reality cursor, real-time live feed sharing, and up to 2.7 hours of battery life. Priced at $229, the Goggles N3 will be available in late November, making FPV flying accessible to a broader audience.",
+   "views": 320,
+   "wordCount": 350,
+   "imageUrl": "https://dronelife.com/wp-content/uploads/2024/11/unnamed-184-768x576.jpg"
+  },
+  {
+    "id": 15,
+  "title": "Google says 'Enhanced protection' feature in Chrome now uses AI",
+  "date": "2024-11-09",
+  "category": "Technology",
+  "content": "Google has updated the description of its Enhanced protection feature in Chrome to confirm it will now be powered by AI. This feature, which is part of Chrome's Safe Browsing mode, provides real-time protection against dangerous sites, downloads, and extensions. The AI-powered protection allows Google to detect potentially harmful sites, even those not previously identified. Additionally, the Tab search bubble in Chrome Canary has been updated to use AI to help organize tabs automatically, and a new option called 'Review inactive tabs' replaces the 'Close unused tabs' feature. These changes are still being tested in Chrome Canary, and their full rollout is uncertain.",
+  "views": 250,
+  "wordCount": 400,
+  "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/04/02/Google-Chrome.jpg"
+  },
+  {
+    "id":16,
+  "title": "Computing industry legend Elwood Edwards, the voice of AOL `You`ve got mail,` passes away at 74",
+  "date": "2024-11-05",
+  "category": "Technology",
+  "content": "Elwood Edwards, the iconic voice behind AOL`s famous `You`ve got mail!` announcement, passed away on November 5, 2024, a day before his 75th birthday. Edwards, who was paid just $200 for his role in 1989, became a household name with his voiceover work for AOL, including lines like 'Files done' and 'Goodbye.' In addition to his AOL fame, he worked in radio, newsrooms, and even made minor cameo appearances, including on The Simpsons. After retiring from WKYC in Cleveland in 2016, Edwards embraced small business opportunities, such as selling personalized voice quotes and making occasional commercial appearances.",
+  "views": 180,
+  "wordCount": 370,
+  "imageUrl" : "https://cdn.mos.cms.futurecdn.net/EyVpe6DZTEkNFwKPGgMtKZ-650-80.png.webp"
+  },
+  {
+    "id": 17,
+    "title": "Australia Plans Social Media Ban for Under-16s",
+    "date": "2024-11-10",
+    "category": "Health",
+    "content": "Australia's government says it will introduce 'world-leading' legislation to ban children under 16 from social media.",
+    "views": 1200,
+    "wordCount": 150,
+    "imageUrl": "https://archetype-cheddartv-prod.web.arc-cdn.net/resizer/v2/KZWEYT32KVHSWR3NKVJVOUCFLB.jpg?auth=4fe8f2ea71b9218a07ae53932178e5891e2d459fcb3cec493fdab42a52ecbd45&width=8256&height=5504"
+},
+{
+    "id": 18,
+    "title": "Watchdog Suggests Lifting Baby Milk Price Promotion Ban",
+    "date": "2024-11-10",
+    "category": "Health",
+    "content": "A ban on baby milk price promotions should be overturned to stop parents from 'paying over the odds' for formula, a government watchdog has suggested.",
+    "views": 900,
+    "wordCount": 200,
+    "imageUrl": "https://c.files.bbci.co.uk/a529/live/1bbf2730-9dad-11ef-b624-c9360d632bd9.jpg"
+},
+{
+    "id": 19,
+    "title": "Increasing Interest in Testosterone Therapy Among Women",
+    "date": "2024-11-10",
+    "category": "Health",
+    "content": "Social media influencers and increased access to telemedicine are contributing to a rise in the number of women seeking testosterone therapy.",
+    "views": 190,
+    "wordCount": 250,
+    "imageUrl": "https://s.yimg.com/uu/api/res/1.2/U0hqKa1PXF0GeComSUP91g--~B/Zmk9c3RyaW07aD00MzI7cT04MDt3PTc2ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/ac7609f0-9fa2-11ef-ac57-c35b9ca5c656.cf.jpg"
+},
+{
+    "id": 20,
+    "title": "FDA Proposes Ending Use of Common Decongestant Ingredient",
+    "date": "2024-11-10",
+    "category": "Health",
+    "content": "An extensive review by the FDA has determined that oral phenylephrine, a common ingredient in cold and allergy medications, does not effectively relieve nasal congestion.",
+    "views": 210,
+    "wordCount": 190,
+    "imageUrl": "https://image.cnbcfm.com/api/v1/image/107321027-1697826107139-gettyimages-1661264942-AFP_33UZ7DZ.jpeg?v=1697831911"
+},
+{
+    "id": 21,
+    "title": "Just 5 Minutes of Exercise Could Lower Blood Pressure, Study Finds",
+    "date": "2024-11-10",
+    "category": "Health",
+    "content": "A recent study suggests that just 5 minutes of exercise daily can help lower blood pressure, and increasing activity to 20 minutes daily may significantly reduce the risk of heart disease.",
+    "views": 300,
+    "wordCount": 170,
+    "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/blood-pressure-running.jpg"
+},
+{
+    "id": 22,
+  "title": "Chiefs vs. Broncos odds, picks, spread, how to watch, live stream: Model reveals 2024 Week 10 NFL predictions",
+  "date": "2024-11-08",
+  "category": "Sport",
+  "content": "AFC West rivals face off in Week 10 as the Kansas City Chiefs (8-0) host the Denver Broncos (5-4) on CBS and Paramount+. Despite nearly losing their perfect season to the Tampa Bay Buccaneers, the Chiefs remain undefeated after a 30-24 overtime victory. The Broncos are coming off a 41-10 loss to the Baltimore Ravens, and will try to rebound. The Chiefs will be without wide receiver JuJu Smith-Schuster due to a hamstring injury. The Chiefs are 7.5-point favorites with a total over/under of 42.5 points.",
+  "views": 220,
+  "wordCount": 350,
+  "imageUrl": "https://sportshub.cbsistatic.com/i/r/2023/09/28/98879018-83fe-4b56-8f19-131101f68d4e/thumbnail/770x433/6263cff376861aed3a0b0aaedea7e307/travis-kelce-chiefs-usatsi.jpg"
+},
+{
+  "category": "Sport",
+  "id": 23,
+  "title": "Lionel Messi and Inter Miami suffer shock elimination in MLS playoffs",
+  "date": "2024-10-19",
+  "content": "Lionel Messi and Inter Miami were unexpectedly eliminated in the first round of the Major League Soccer (MLS) playoffs, losing 3-2 to the No. 9 seed Atlanta United in the series decider. Miami had opened the scoring in the 17th minute through Matías Rojas, but Atlanta quickly responded with two goals from Jamal Thiaré to take the lead at halftime. Messi equalized at 2-2 in the 65th minute with his first-ever playoff goal, but Bartosz Slisz’s header in the 76th minute sealed the upset for Atlanta.",
+  "views": 180,
+  "wordCount": 350,
+  "imageUrl": "https://c.ndtvimg.com/2024-11/neiaek4g_lionel-messi-afp_625x300_10_November_24.jpg?im=FitAndFill,algorithm=dnn,width=806,height=605"
+},
+{
+  "id": 24,
+  "title": "Bitcoin Hits Record High as Trump Nears Full Control of Congress",
+  "date": "2024-11-10",
+  "category": "Finance",
+  "content": "Bitcoin surged to $80,000 for the first time following a decisive Republican victory in the presidential election, with Donald Trump edging closer to full control of Congress.",
+  "views": 500,
+  "wordCount": 200,
+  "imageUrl": "https://www.telegraph.co.uk/content/dam/business/2024/11/11/TELEMMGLPICT000399551617_17313086895330_trans_NvBQzQNjv4BqALc_t5KjuK6SvfNY518gx6QXwXGZ_TilAKsrE6MZV70.jpeg?imwidth=680"
+},
+{
+  "id": 25,
+  "title": "Inflation and Retail Sales Greet Roaring Stock Market Rally",
+  "date": "2024-11-10",
+  "category": "Finance",
+  "content": "All three major stock indexes surged to record highs as inflation and retail sales data, combined with Donald Trump's 2024 election victory, spurred a market rally.",
+  "views": 400,
+  "wordCount": 180,
+  "imageUrl": "https://s.yimg.com/ny/api/res/1.2/rKcFDRXSo5Hc2VHfeN16hg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/3067fee0-9e0d-11ef-bbf1-e2cc0c5ac8cb"
+},
+{
+  "id": 26,
+  "title": "European Banks Face Tougher Competition Under Trump 2.0",
+  "date": "2024-11-10",
+  "category": "Finance",
+  "content": "European banks prepare for intensified competition as Wall Street anticipates a new wave of financial deregulation with Donald Trump’s second presidency.",
+  "views": 300,
+  "wordCount": 220,
+  "imageUrl": "https://media.zenfs.com/en/reuters.com/eb6df09c9d431bc36da02dfdc89ba6cc"
+},
+{
+  "id": 27,
+  "title": "Anima Turns to Goldman to Assess Banco BPM Buyout Bid",
+  "date": "2024-11-10",
+  "category": "Finance",
+  "content": "Italy's third-largest bank, Banco BPM, recently made a buyout offer to take Anima private, contingent on acquiring a minimum of 67% of the fund manager.",
+  "views": 1500,
+  "wordCount": 160,
+  "imageUrl": "https://media.zenfs.com/en/reuters-finance.com/d6894eabfa36f2f5c0dadd49300a1505"
+},
+{
+  "id": 28,
+  "title": "DBS Explores Bank Stake Acquisitions in Malaysia",
+  "date": "2024-11-10",
+  "category": "Finance",
+  "content": "DBS Group Holdings Ltd, Singapore’s largest lender, is exploring expansion into Malaysia with potential acquisitions in local banks, including one of the country's smaller financial institutions by assets.",
+  "views": 2800,
+  "wordCount": 210,
+  "imageUrl": "https://assets.nst.com.my/images/articles/DBS-RESULTS__1731134373.jpg"
+},
+{
+  "id": 29,
+  "title": "Coco Gauff completes dream run to become youngest to win WTA Finals in 20 years",
+  "date": "2024-11-09",
+  "category": "Sport",
+  "content": "American tennis sensation Coco Gauff ended her season in style by rallying to defeat China’s Zheng Qinwen 3-6 6-4 7-6 (2) to win the WTA Finals in Riyadh, Saudi Arabia. At 20 years old, Gauff became the youngest player since Maria Sharapova in 2004 to win the prestigious tournament. Her victory earned her over $4.8 million, the largest single prize in WTA history. Gauff also made history by becoming the youngest player to beat the world No. 1 and No. 2 at the WTA Finals since Kim Clijsters in 2002. She stunned world No. 1 Aryna Sabalenka in the semifinals 7-6 (4) 6-3 and defeated No. 2 Iga Świątek in the group stage. The final between Gauff and Zheng marked the youngest pair to compete in a WTA Finals final since 2004. Gauff's victory in the final also marks a historic moment in tennis history.",
+  "views": 250,
+  "wordCount": 370,
+  "imageUrl":"https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2183892888-copy.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp"
+},
+{
+  "id": 30,
+  "title": "Dillon Gabriel makes NCAA history in No. 1 Oregon’s win over Maryland",
+  "date": "2024-11-10",
+  "category": "Sport",
+  "content": "Dillon Gabriel made NCAA history in No. 1 Oregon’s 39-18 win over Maryland in Eugene, Oregon on Saturday. The 23-year-old broke the NCAA record for total career touchdowns on a three-yard pass to offensive lineman Gernorris Wilson in the third quarter. With the touchdown, he passed Case Keenum’s previous record with his 179th total touchdown. Keenum set the record from 2007-2011 while playing for the University of Houston, where he finished with 178 touchdowns. Gabriel threw for 183 yards and three touchdowns in the win, helping the Ducks improve to 10-0 for the first time since 2012. In his six college seasons, Gabriel has accumulated 147 passing touchdowns, 32 rushing scores, and one receiving touchdown. After the game, Gabriel reflected on his journey, emphasizing the relationships and memories made over the years. Ducks head coach Dan Lanning celebrated Gabriel's achievement, highlighting the special moment for the player. Oregon is scheduled to face Wisconsin next week before hosting Washington on November 30.",
+  "views": 200,
+  "wordCount": 380,
+  "imageUrl":"https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2183268146.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp"
+},
+{
+  "id": 31,
+  "title": "Bobby Allison, NASCAR Hall of Famer, dies at 86",
+  "date": "2024-11-09",
+  "category": "Sport",
+  "content": "NASCAR Hall of Famer Bobby Allison died at the age of 86 on Saturday, NASCAR announced. He passed away peacefully at his home in Mooresville, North Carolina, though no cause of death was provided. Allison, a founding member of NASCAR’s ‘Alabama Gang,’ is ranked fourth on the all-time wins list with 85 career victories. Last month, NASCAR recognized Allison’s 85th win with the awarding of a disputed race in 1971 at Bowman Gray Stadium. He later went on to win the 1983 NASCAR championship and the Daytona 500 three times. NASCAR chairman and CEO Jim France praised Allison’s impact on the sport, both as a driver and a leader of the ‘Alabama Gang.’ Allison was inducted into the NASCAR Hall of Fame in 2011, cementing his legacy in racing history.",
+  "views": 220,
+  "wordCount": 330,
+  "imageUrl":"https://media.cnn.com/api/v1/images/stellar/prod/ap24313721914755.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp"
+},
+{
+  "id": 32,
+  "title": "Ole Miss pulls off upset over No. 3 Georgia, strengthens College Football Playoff case",
+  "date": "2024-11-09",
+  "category": "Sport",
+  "content": "No. 16 Ole Miss shocked No. 3 Georgia with a 28-10 victory at Vaught-Hemingway Stadium in Oxford, Mississippi, strengthening their bid for a spot in the College Football Playoffs. The win marks Ole Miss' highest AP-ranked victory at home in school history. The game was delayed as fans rushed the field with 16 seconds left, celebrating prematurely before being cleared for the final play. Ole Miss coach Lane Kiffin praised his team’s resilience, stating that despite two earlier losses, they delivered a ‘clean game against the best team in the country.’ The victory ended Georgia’s 52-game streak of not losing to a team outside Alabama. Ole Miss quarterback Jaxson Dart overcame an early ankle injury, and freshman Austin Simmons helped lead the Rebels to the win. The Bulldogs struggled in the second half, turning the ball over three times. Ole Miss improves to 8-2, while Georgia falls to 7-2.",
+  "views": 270,
+  "wordCount": 380,
+  "imageUrl":"https://media.cnn.com/api/v1/images/stellar/prod/olemissga-gettyimages-2183907494.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp"
+},
+{
+  "id": 33,
+  "title": "Florida basketball coach Todd Golden considers defamation claims amid ongoing investigation",
+  "date": "2024-11-09",
+  "category": "Sport",
+  "content": "Florida basketball coach Todd Golden acknowledged an ongoing university inquiry into allegations of sexual harassment, sexual exploitation, stalking, and cyberstalking, and stated he is considering defamation claims against his accusers. Golden, 39, is being investigated after a Title IX complaint was filed against him on September 27, detailing allegations including unwanted sexual advances on Instagram, requesting sexual favors, and sending explicit photos. Golden has hired attorney Ken Turkel for advice on pursuing legal action. Despite the investigation, Golden continues to coach the 21st-ranked Gators, preparing for their game against Grambling State. The university has not publicly confirmed the investigation, as federal law prevents comments on Title IX inquiries. This is the third serious set of allegations under athletic director Scott Stricklin's tenure. Previously, Stricklin saw two other coaches, Cam Newbauer and Tony Amato, leave amid allegations of abuse and misconduct.",
+  "views": 320,
+  "wordCount": 380,
+  "imageUrl":"https://media.cnn.com/api/v1/images/stellar/prod/ap24310682304267-20241109232811125.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp"
+},
+{
+  "id": 34,
+  "title": "Earth’s Inner Core Rotation Slowing Down, New Research Confirms",
+  "date": "2024-11-09",
+  "category": "Science",
+  "content": "New research confirms that the rotation of Earth’s inner core has been slowing down as part of a decades-long pattern. The findings, published in the journal Nature, suggest that the core’s spin has slowed since 2008 and may soon begin to speed up again. Researchers have tracked seismic waves from earthquakes to observe changes in the core’s rotation, revealing a 70-year cycle of acceleration and deceleration. The inner core, a solid ball of metal surrounded by a liquid outer core, influences Earth’s magnetic field, but the full impact of the core’s slowing spin is still uncertain. ",
+  "views": 450,
+  "wordCount": 590,
+  "imageUrl":"https://media.cnn.com/api/v1/images/stellar/prod/usc-news-vidale-earth-cutaway-final.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp"
+},
+{
+  "id": 35,
+  "title": "Scientists Store Human Genome on 5D Memory Crystal for Future Preservation",
+  "date": "2024-11-09",
+  "category": "Science",
+  "content": "Scientists at the University of Southampton have successfully stored the entire human genome on a revolutionary '5D memory crystal,' a durable storage medium capable of withstanding extreme conditions. This crystal, which holds up to 360 terabytes of data, is designed to last billions of years, potentially providing a blueprint for restoring species in the future. The crystal, recognized by Guinness World Records for its durability, uses ultra-fast lasers to inscribe genomic data into nanostructures, translating information into five dimensions: height, length, width, orientation, and position. The memory crystal is housed in the Memory of Mankind archive in Austria, and the project may offer a way to preserve plant, animal, and human data for future generations. Although the technology is groundbreaking, challenges remain about how the data could be read in the distant future.",
+  "views": 520,
+  "wordCount": 535,
+  "imageUrl":"https://media.cnn.com/api/v1/images/stellar/prod/01j8250y13j9cxzdcd113yxgpg.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp"
+},
+{
+  "id": 36,
+  "title": "Food Coloring Makes Mice Skin Transparent for Biomedical Research",
+  "date": "2024-11-09",
+  "category": "Science",
+  "content": "In a breakthrough study published in *Science*, researchers have discovered that a yellow food coloring, commonly used in snack foods, can make the skin of mice temporarily transparent. By applying a solution of tartrazine, a food dye, mixed with water, the researchers were able to reveal internal organs and blood vessels beneath the skin without surgery or damage. The process works by altering the refractive index of the skin, enabling better light transmission. This discovery could revolutionize biomedical research, particularly for visualizing blood vessels, veins, and internal organs in living organisms. The method has the potential to improve medical procedures such as blood draws and cancer detection. However, the technique has not been tested on humans, and further research is needed to determine its applicability in humans.",
+  "views": 610,
+  "wordCount": 554,
+  "imageUrl":"https://media.cnn.com/api/v1/images/stellar/prod/zihao-ou-lab-1a.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp"
+},
+{
+  "id": 37,
+  "title": "Mushroom-Powered Robots: The Future of Biohybrid Robotics",
+  "date": "2024-11-09",
+  "category": "Technology",
+  "content": "A new breakthrough in biohybrid robotics combines the living organism, king oyster mushrooms, with synthetic robot components to create robots controlled by the electrical signals of fungi. Researchers at Cornell University have engineered robots that are powered by mycelium, the root-like structure of the mushroom, which senses and reacts to environmental stimuli through electrical signals. This innovative work marks a step forward in biohybrid robotics, a field combining biological materials and engineered systems. Though still experimental, biohybrid robots have the potential to perform complex tasks, such as delivering fertility treatments or searching for earthquake survivors. The study details how the fungi's mycelium integrates with the robots' hardware and communicates via electrical signals, offering insights into how biological systems can enhance technological functions.",
+  "views": 325,
+  "wordCount": 436,
+  "imageUrl":"https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1243733295.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp"
+}
+  ]
+}

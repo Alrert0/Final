@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TBM News</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-black">
+    <a class="navbar-brand text-danger" href="index.html">TBM News</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <button id="theme-toggle" class="btn btn-outline-light">Dark Mode</button>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container mt-4">
+    <div class="row">
+      <aside class="col-lg-3 sidebar">
+        <h3 class="text-danger">Sort Articles</h3>
+        <button id="sort-popular" class="btn btn-primary btn-block mb-2">Most Popular</button>
+        <button id="sort-date" class="btn btn-secondary btn-block mb-4">Latest</button> 
+        <h3 class="text-danger">Categories</h3>
+        <button class="btn btn-outline-danger btn-block mb-2" onclick="filterByCategory('Health')">Health</button>
+        <button class="btn btn-outline-danger btn-block mb-2" onclick="filterByCategory('Technology')">Technology</button>
+        <button class="btn btn-outline-danger btn-block mb-2" onclick="filterByCategory('Sport')">Sport</button>
+        <button class="btn btn-outline-danger btn-block mb-2" onclick="filterByCategory('Finance')">Finance</button>
+        <button class="btn btn-outline-danger btn-block mb-2" onclick="filterByCategory('Travel')">Travel</button>
+        <button class="btn btn-outline-danger btn-block mb-2" onclick="filterByCategory('Science')">Science</button>
+        <button class="btn btn-outline-secondary btn-block" onclick="showAllArticles()">Show All</button>
+      </aside>
+
+      <section class="col-lg-9 article-section" id="articles-section"></section>
+    </div>
+  </div>
+
+  <div class="modal fade" id="infoModal" tabindex="-1" aria-labelledby="infoModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="infoModalLabel">Article Information</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body" id="modalContent">
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="footer mt-4 py-3 bg-black text-light">
+    <div class="container text-center">
+      <p>2024 TBM News</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
